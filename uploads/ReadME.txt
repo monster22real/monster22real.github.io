@@ -1,0 +1,1 @@
+This folder will contain all the file that Consultant uploads the signed contract.
